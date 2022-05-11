@@ -18,4 +18,5 @@ public class Naver {
     private String _id;
     private String company;
     private String title;
+    private String date;
 }
